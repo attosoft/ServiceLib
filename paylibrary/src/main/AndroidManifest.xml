@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.id0755.paylibrary">
+
+    <application>
+        <meta-data
+            android:name="com.id0755.paylibrary.PayProvider"
+            android:value="IProvider" />
+    </application>
+</manifest>
